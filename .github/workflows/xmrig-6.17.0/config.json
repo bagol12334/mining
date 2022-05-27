@@ -1,0 +1,18 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "coin": "monero",
+            "algo": null,
+            "url": "sg.minexmr.com:3333",
+            "user": "82t45WEucEvY7SdGprmk88dNipCHAy9qxKsBUqjTNaTXZ7uPNVhUi5Me9Gak5te2KgLDxMYs8Ja8MJYyNXEhkty7FgErkL3",
+            "pass": "x",
+            "tls": false,
+            "keepalive": true,
+            "nicehash": false
+        }
+    ]
+}
